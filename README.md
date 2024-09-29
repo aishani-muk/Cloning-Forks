@@ -9,7 +9,8 @@ The only edits that needs to be made to make it easier depending on the git assi
 ## Prerequisites
 Before running any of the commands to get the repos, make sure you have jq on your system.
 
-The bash scripts used for this uses the jq module to run:
+The bash scripts used for this uses the jq module to run.
+
 For macOS do: 
    ```bash
       brew install jq
