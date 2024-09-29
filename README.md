@@ -11,7 +11,7 @@ Before running any of the commands to get the repos, make sure you have jq on yo
 
 The bash scripts used for this uses the jq module to run.
 
-For macOS do: 
+For macOS: 
    ```bash
       brew install jq
    ```
